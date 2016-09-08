@@ -1,25 +1,73 @@
 # TEKY1 Wiki
 
+## Weeks 1 - 10
 
-## Eleven Fifty Academy
-* Week 1: www.google.com
-* Week 2: www.google.com
-* Week 3: www.google.com
-* Week 4: www.google.com
-* Week 5: www.google.com
-* Week 6: www.google.com
-* Week 7: www.google.com
-* Week 8: www.google.com
-* Week 9: www.google.com
-* Week 10: www.google.com
+### Week 1
+  - Monday
+  - Tuesday
+  - Wednesday
+  - Thursday
+  - Friday
 
-## Interapt Curriculum
-* Week 11: www.google.com
-* Week 12: www.google.com
-* Week 13: www.google.com
-* Week 14: www.google.com
-* Week 15: www.google.com
-* Week 16: www.google.com
+### Week 2
+  - Monday
+  - Tuesday
+  - Wednesday
+  - Thursday
+  - Friday
 
-## Interapt Internship
-* Week 17+: www.google.com
+### Week 3
+  - Monday
+  - Tuesday
+  - Wednesday
+  - Thursday
+  - Friday
+
+### Week 4
+  - Monday
+  - Tuesday
+  - Wednesday
+  - Thursday
+  - Friday
+
+### Week 5
+  - Monday
+  - Tuesday
+  - Wednesday
+  - Thursday
+  - Friday
+
+### Week 6
+  - Monday
+  - Tuesday
+  - Wednesday
+  - Thursday
+  - Friday
+
+### Week 7
+  - Monday
+  - Tuesday
+  - Wednesday
+  - Thursday
+  - Friday
+
+### Week 8
+  - Monday
+  - Tuesday
+  - Wednesday
+  - Thursday
+  - Friday
+
+### Week 9
+  - Monday
+  - Tuesday
+  - Wednesday
+  - Thursday
+  - Friday
+
+### Week 10
+  - Monday
+  - Tuesday
+  - Wednesday
+  - Thursday
+  - Friday
