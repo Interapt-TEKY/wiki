@@ -1,9 +1,3 @@
-# This is a header
-## This is a subheader
+# TEKY1 Wiki
 
-_italics_
-*bold*
-~strikethrough~
-
-* Bullet Point
-
+* [Week 1:]: www.google.com
