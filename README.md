@@ -1,22 +1,24 @@
 # TEKY1 Wiki
 
+
+
 ## Weeks 1 - 10
 
-### Week 1
+#### Week 1
   - Monday
   - Tuesday
   - Wednesday
   - Thursday
   - Friday
 
-### Week 2
+#### Week 2
   - Monday
   - Tuesday
   - Wednesday
   - Thursday
   - Friday
 
-### Week 3
+#### Week 3
   - Monday
   - Tuesday
   - Wednesday
