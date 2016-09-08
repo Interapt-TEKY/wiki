@@ -3,7 +3,7 @@
 ## DISC
   - links go here
   - like this: www.google.com
-  - (or this)[www.google.com]
+  - [or this](www.google.com)
 
 ## Weeks 1 - 10
 
