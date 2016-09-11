@@ -9,14 +9,14 @@
 
 ## Commands
 
-	-- git init
+	- git init
 
 		Used to turn the current folder into a git repository
 
-	-- git add
+	- git add
 
 		Used to add a file to the current repository index
 
-	-- git commit 
+	- git commit 
 
 		Used to commit changes to the repository
