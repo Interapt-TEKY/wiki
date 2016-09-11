@@ -4,7 +4,7 @@
   - links go here
   - like this: www.google.com
   - [or this](www.google.com)
-  - [Free Code Camp](www.freecodecamp.org)
+  - [Free Code Camp](http://www.freecodecamp.org)
 
 ## Weeks 1 - 10
 
