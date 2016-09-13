@@ -10,7 +10,7 @@
 
 #### Week 1
   - Monday
-  #####	[Homework](https://docs.google.com/a/interapthq.com/document/d/1_S5dyA0MoR0UdoX_jcwNbbQVhTbv4MZk4SJSI6KylWs/edit?usp=sharing)
+    	--[Homework](https://docs.google.com/a/interapthq.com/document/d/1_S5dyA0MoR0UdoX_jcwNbbQVhTbv4MZk4SJSI6KylWs/edit?usp=sharing)
   - Tuesday
   #####	[Homework](https://docs.google.com/a/interapthq.com/document/d/1TJOOHSuIQyiepPUPW-psFb3v9RnjrgxmlyWuyPQFPbM/edit?usp=sharing)
   - Wednesday
