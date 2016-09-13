@@ -3,7 +3,7 @@
 ## Basics
 
 	I have noticed that some students still have many questions about using git. Git is one of the most 
-	important tools in a programmer's aresnal. Git allows us to collaborate on programs individually 
+	important tools in a programmers aresnal. Git allows us to collaborate on programs individually 
 	and cleanly submit our changes to the main source without fear of breaking the program for others.
 	 It also acts as a great way to keep your code safe in the event of data loss. 
 
